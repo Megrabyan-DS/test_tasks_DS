@@ -1,5 +1,6 @@
 datasets/
 old/
+new/
 project_name/
 TODO.txt
 *.csv
