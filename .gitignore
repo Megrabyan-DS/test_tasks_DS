@@ -5,3 +5,4 @@ project_name/
 TODO.txt
 *.csv
 *.xlsx
+/01.Mains_Lab/.ipynb_checkpoints
